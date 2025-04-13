@@ -78,6 +78,5 @@ This research project investigates the **impact of non-academic factors**—such
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/student-performance-prediction.git
-cd student-performance-prediction
+git clone https://github.com/Rjdp24/Student-performance-prediction.git
 pip install -r requirements.txt
